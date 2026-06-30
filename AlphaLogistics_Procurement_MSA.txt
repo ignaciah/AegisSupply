@@ -1,0 +1,49 @@
+========================================================================
+MASTER SERVICE AGREEMENT (MSA) - OPERATIONAL DISRUPTION & PENALTY POLICY
+========================================================================
+Effective Date: January 1, 2026
+Parties: AegisSupply Corp. (Buyer) and AlphaLogistics Components Inc. (Supplier)
+SECTION 4: DELIVERY SCHEDULES AND DISRUPTIONS
+4.1 Expected Delivery: Supplier must fulfill all Purchase Orders (POs) within the timeline
+specified at the time of checkout.
+4.2 Late Delivery Penalty Clauses:
+- Grace Period: A standard grace period of 48 hours applies to all standard shipments from the
+moment a "Delayed" alert is posted in the ERP tracking terminal.
+- Disruption Level 1 (Minor Delay): If a shipment is delayed between 3 to 7 business days past
+the expected delivery date, the Supplier agrees to issue an automatic 5% cost reduction penalty
+on the affected PO line items.
+- Disruption Level 2 (Major Delay): If a shipment is delayed greater than 7 business days, a 10%
+penalty reduction applies, and AegisSupply reserves the right to source alternative parts from a
+secondary marketplace vendor.
+SECTION 5: ALTERNATIVE SUPPLIERS AND PRICE MATCHING
+5.1 Sourcing Alternatives: In the event of a Disruption Level 2, the Buyer's autonomous
+procurement agents are legally permitted to query third-party marketplace networks to find
+instant-fulfillment replacement components.
+5.2 Supplier Reimbursement: If alternative parts are sourced due to a Supplier fault, and the
+third-party unit cost exceeds AlphaLogistics' contract price by less than $500, AlphaLogistics will
+absorb the difference on the next monthly billing cycle invoice.
+2
+========================================================================
+MASTER SERVICE AGREEMENT (MSA) - OPERATIONAL DISRUPTION & PENALTY POLICY
+========================================================================
+Effective Date: January 1, 2026
+Parties: AegisSupply Corp. (Buyer) and AlphaLogistics Components Inc. (Supplier)
+SECTION 4: DELIVERY SCHEDULES AND DISRUPTIONS
+4.1 Expected Delivery: Supplier must fulfill all Purchase Orders (POs) within the timeline
+specified at the time of checkout.
+4.2 Late Delivery Penalty Clauses:
+- Grace Period: A standard grace period of 48 hours applies to all standard shipments from the
+moment a "Delayed" alert is posted in the ERP tracking terminal.
+- Disruption Level 1 (Minor Delay): If a shipment is delayed between 3 to 7 business days past
+the expected delivery date, the Supplier agrees to issue an automatic 5% cost reduction penalty
+on the affected PO line items.
+- Disruption Level 2 (Major Delay): If a shipment is delayed greater than 7 business days, a 10%
+penalty reduction applies, and AegisSupply reserves the right to source alternative parts from a
+secondary marketplace vendor.
+SECTION 5: ALTERNATIVE SUPPLIERS AND PRICE MATCHING
+5.1 Sourcing Alternatives: In the event of a Disruption Level 2, the Buyer's autonomous
+procurement agents are legally permitted to query third-party marketplace networks to find
+instant-fulfillment replacement components.
+5.2 Supplier Reimbursement: If alternative parts are sourced due to a Supplier fault, and the
+third-party unit cost exceeds AlphaLogistics' contract price by less than $500, AlphaLogistics will
+absorb the difference on the next monthly billing cycle invoice.
