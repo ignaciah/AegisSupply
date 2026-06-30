@@ -1,0 +1,7 @@
+# Conceptual look at what the backend tool processes via UiPath Python/HTTP Activity
+import requests
+
+def search_supplier(part_id):
+    # Dummy marketplace endpoint simulating live supplier checks
+    response = requests.get(f"https://api.mockmarket.com/v1/parts/{part_id}")
+    return response.json()  # Returns alternative price and availability
